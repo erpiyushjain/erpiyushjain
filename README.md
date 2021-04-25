@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush Jain</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-
+<h3 align="center">A passionate Software Engineer from India</h3><br>
 
 
 - 🌱 I’m currently learning **Machine learning**
 - 📫 How to reach me **er.piyush02@gmail.com**
 
-<img align="right" alt="Coding" width="500" src="icons/coder.jpg"><br>
+<img align="right" alt="Coding" width="450" src="icons/coder.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-jain02" target="blank"><img align="center" src="icons/linkedin.svg" alt="piyush-jain02" height="30" width="40" /></a>
