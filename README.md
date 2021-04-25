@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Jain</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="icons/coder.jpg">
 
 - 🌱 I’m currently learning **Machine learning**
 - 📫 How to reach me **er.piyush02@gmail.com**
