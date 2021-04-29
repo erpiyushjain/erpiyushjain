@@ -17,8 +17,7 @@
 
 <h4 align="left">Frontend Development</h4>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/css.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/html.svg" alt="html5" width="40" height="40"/> </a></p>
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpiyushjain&show_icons=true&locale=en&layout=compact" alt="erpiyushjain" />
+
 
 <h4 align="left">Database</h4>
 <p align="left"><a href="https://www.mysql.com/" target="_blank"> <img src="icons/mysql.svg" alt="mysql" width="40" height="40"/> </a></p>
