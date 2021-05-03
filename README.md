@@ -1,3 +1,4 @@
+<img alt = "banner" src = "icons/piyush banner@3x.png" width = "100%">
 <h1 align="center">Hi 👋, I'm Piyush Jain</h1>
 <h3 align="center">A passionate Software Engineer from India</h3><br>
 
