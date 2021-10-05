@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3><br>
 
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Flutter Development**
 - 📫 How to reach me **er.piyush02@gmail.com**
 
 <img align="right" alt="Coding" width="450" src="icons/coder.jpg">
